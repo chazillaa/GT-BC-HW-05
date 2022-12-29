@@ -30,7 +30,7 @@ To use visit https://chazillaa.github.io/GT-BC-HW-05
 
 ## Screenshot
 
-![](Assets/images/GT-BC-HW-05-SCREEN%20SHOT.PNG)
+![](assets/images/GT-BC-HW-05-SCREEN%20SHOT.PNG)
 
 ## Credits
 
